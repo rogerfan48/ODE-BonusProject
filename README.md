@@ -1,0 +1,9 @@
+- `Solution.py` will output 3 graph directly with built-in default parameters
+  - Default Q0: 25 g
+  - Default R: 1 L/min
+  - Default X: 0.5 g/L
+- individual generation codes
+  - enabling customize parameters
+  - `Q0.py` -> `Q0.png`
+  - `R.py` -> `R.png`
+  - `X.py` -> `X.png`
