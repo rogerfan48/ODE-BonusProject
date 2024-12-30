@@ -1,4 +1,10 @@
-- `Solution.py` will output 3 graph directly with built-in default parameters
+## Project - Sophomore 1 - Ordinary Differential Equation - Bonus Project
+- It's a relatively small project.
+- I am required to write a program to sketch solute concentration dynamics curves for the following problem and demonstrate your program to show how it works.
+- The whole problem and requirement can be seen in [BonusProject.pdf](https://github.com/rogerfan48/Project-Soph1-ODE-BonusProject/blob/main/BonusProject.pdf)
+
+### Implementation Details
+- `Solution.py` will output 3 graphs directly with built-in default parameters
   - Default Q0: 25 g
   - Default R: 1 L/min
   - Default X: 0.5 g/L
