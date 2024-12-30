@@ -8,7 +8,7 @@ def dQ_dt(Q, t, R, X):
 figure_size = (15, 8)
 t = np.linspace(0, 500, 1000)
 
-Q0_values = np.linspace(0, 100, 11)
+Q0_values = np.linspace(0, 200, 11)
 print('Generating the graph of fixed X and R, varying Q₀');
 X = float(input('Please input fixed X(g/L): '))
 R = float(input('Please input fixed R(L/min): '))
